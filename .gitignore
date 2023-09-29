@@ -39,6 +39,7 @@ nb-configuration.xml
 *.iws
 *.ipr
 .idea/
+.idea
 
 # Maven build tools.
 target
