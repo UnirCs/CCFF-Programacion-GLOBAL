@@ -49,3 +49,18 @@ console.log(arrayConElementos);
 
 arrayNumerico.sort();
 console.log(arrayNumerico);
+
+
+//Matrices
+//Un array puede contener otros arrays
+let matriz = [[1,2,3],[4,5,6],[7,8,9]];
+/*
+( 1 2 3 )
+( 4 5 6 )
+( 7 8 9 )
+ */
+console.log(matriz);
+console.log(matriz[0]);
+console.log(matriz[0][0]);
+console.log(matriz[1][1]);
+
