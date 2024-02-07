@@ -1,7 +1,6 @@
 # Tema 2 - Ejercicios de introduccion
 
 ## Ejercicio 1: Declara una variable
-- Declara una variable usando `var` llamada `miNumero` y asignale el valor 10. Luego, imprime el valor por consola.
 - Declara una variable usando `let` llamada `miCadena` con el valor `"Hola Mundo"`. Imprime este valor por consola.
 - Intenta reasignar un nuevo valor a `miCadena` y vuelve a imprimirlo.
 - Declara una constante usando `const` llamada `miBooleano` con el valor `true` e imprímelo por consola.
