@@ -15,7 +15,8 @@
     - Boolean
     - Undefined
     - Object
-    - typeof
+
+- Operador typeof
 
 - Buenas practicas (nombres, saltos de linea y ;)
 
