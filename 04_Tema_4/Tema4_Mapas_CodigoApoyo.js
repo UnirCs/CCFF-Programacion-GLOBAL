@@ -10,7 +10,7 @@ let mapa = new Map();
 
 let array = [1,2];
 
-//AÃ±adir elementos
+//Añadir elementos
 mapa.set(1, "1");
 mapa.set("saludo", "hola");
 mapa.set("precio", 13.0);

@@ -24,7 +24,7 @@ console.log(arrayConElementos[3]);
 let inexistente = arrayConElementos[3];
 console.log(inexistente);
 
-//Un array (como cualquier coleccion) tiene un tamaÃ±o que usaremos para hacer operaciones - length
+//Un array (como cualquier coleccion) tiene un tamaño que usaremos para hacer operaciones - length
 let size = arrayConElementos.length;
 console.log(size);
 console.log(arrayVacio.length);
@@ -35,7 +35,7 @@ console.log(arrayConElementos[arrayConElementos.length-1]);
 arrayConElementos[arrayConElementos.length-2] = "tractor";
 console.log(arrayConElementos);
 
-//Podemos aÃ±adir elementos
+//Podemos añadir elementos
 arrayConElementos.push("moto");
 console.log(arrayConElementos);
 

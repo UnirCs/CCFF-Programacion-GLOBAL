@@ -27,7 +27,7 @@ for (let indice = 0; indice < arrayNum.length; indice++) {
 console.log(arrayNum);
 
 //Obtener los numeros pares hasta 100
-//Â¿Como lo harÃ­amos con while y for?
+//¿Como lo hariamos con while y for?
 
 let arrayPares = [];
 let arrayImpares = [];

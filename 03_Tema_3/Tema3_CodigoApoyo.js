@@ -122,18 +122,12 @@ if(resultado === "APROBADO" || resultado === "NOTABLE" ||resultado === "SOBRESAL
     textoCorreo = "Hay que estudiar mas";
 }
 
-console.log("variable var: " + variableDentroDeBloque);
-
-
 if(resultado !== "SUSPENSO" || resultado !== "NOTA INVALIDA") {
-
-    var variableDentroDeBloque = 5;
     textoCorreo = "Enhorabuena has aprobado";
 } else {
     textoCorreo = "Hay que estudiar mas";
 }
 
-console.log("variable var: " + variableDentroDeBloque);
 console.log(resultado);
 
 console.log("----")
